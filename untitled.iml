@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap01/src/com/ohgiraffers/section01/literal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap01/src/com/ohgiraffers/section02/variable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap01/src/com/ohgiraffers/section03/constant" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap01/src/com/ohgiraffers/section04/overflow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap01/src/com/ohgiraffers/section05/typecasting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap02-operator/src/com/ohgiraffers/section01/arithmetic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap02-operator/src/com/ohgiraffers/section02/assignment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap02-operator/src/com/ohgiraffers/section03/increment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap02-operator/src/com/ohgiraffers/section04/comparison" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap02-operator/src/com/ohgiraffers/section05/logical" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap02-operator/src/com/ohgiraffers/section06/ternary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap03-method-and-api/src/com/ohgiraffers/level01/basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap03-method-and-api/src/com/ohgiraffers/section01/method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap03-method-and-api/src/com/ohgiraffers/section02/package_and_import" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap03-method-and-api/src/com/ohgiraffers/section03/math" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap03-method-and-api/src/com/ohgiraffers/section04/scanner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap04-control-flow/src/com" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap05.array/src/com/ohgiraffers/section01/array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap05.array/src/com/ohgiraffers/section02/demensinal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap05.array/src/com/ohgiraffers/section03/copy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap05.array/src/com/ohgiraffers/section04/sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap06-class-and-object/src/com/ohgiraffers/section01/usertype" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap06-class-and-object/src/com/ohgiraffers/section02/encapsulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.JavaFoundation/chap06-class-and-object/src/com/ohgiraffers/section03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
