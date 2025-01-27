@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6a1ac1c-a88e-488c-94f8-36d6b8c053a3" name="변경" comment="" />
+    <list default="true" id="b6a1ac1c-a88e-488c-94f8-36d6b8c053a3" name="변경" comment="java commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,8 +70,25 @@
       <updated>1737438057300</updated>
       <workItem from="1737438058403" duration="671000" />
       <workItem from="1737530940161" duration="78000" />
-      <workItem from="1737700964986" duration="543000" />
+      <workItem from="1737700964986" duration="830000" />
     </task>
+    <task id="LOCAL-00001" summary="java commit">
+      <option name="closed" value="true" />
+      <created>1737701590182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737701590182</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java commit">
+      <option name="closed" value="true" />
+      <created>1737701595576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737701595576</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +98,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="java commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="java commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
